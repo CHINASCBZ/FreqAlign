@@ -1,1 +1,1 @@
-# This code is used for FreqAlign: Frequency-Aware Cosine Similarity Alignment Network for Enhancing SAM in Remote Sensing Semantic Segmentation
+# This code is used for FreqAlign: Frequency-Aware Cosine Similarity Alignment Network for Enhancing SAM in Remote Sensing Semantic Segmentation此代码用于FreqAlign：频率感知余弦相似度对齐网络，用于增强遥感语义分割中的SAM该代码用于FreqAlign：频率感知余弦相似性对齐网络，用于增强遥感语义分割中的SAM
